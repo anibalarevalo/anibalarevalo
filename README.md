@@ -1,7 +1,5 @@
 ## Hi there, i am Anibal Arevalo 👋
 
-***
-
 🎓 Computer Science Student | Passionate Angular Front-End Developer | Seeking Opportunities
 
 👨‍🎓 Currently in the final semester of my Computer Science degree, focusing on completing my thesis.
